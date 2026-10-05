@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/game_bgm.mp3</file>
+        <file>res/menu_song.mp3</file>
+        <file>res/yuzusoft_voice.wav</file>
+        <file>res/eat.wav</file>
+        <file>res/death.wav</file>
+        <file>res/click.wav</file>
+        <file>res/background_menu.jpg</file>
+        <file>res/yuzusoft_logo.png</file>
+        <file>res/snake.ico</file>
+    </qresource>
+</RCC>
